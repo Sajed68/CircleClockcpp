@@ -2,8 +2,8 @@
 <p dir=rtl>
 برای کامپایل این برنامه می‌توانید از qmake و یا qt-Creator استفاده نمایید. برای کامپایل با استفاده از qmake از دستور زیر استفاده نمایید:  
 </p>
-> $ qmake circlecalendarcpp.pro  
 
+> $ qmake circlecalendarcpp.pro  
 > $ make
 
 
