@@ -40,6 +40,6 @@
 ***
 
 در صورت علاقه می‌توانید از نسخه
-[python](www.gitlab.com/sajed68/circle-click-widget)
+[python](https://gitlab.com/sajed68/circle-clock-widget)
 برنامه استفاده کنید.
 
