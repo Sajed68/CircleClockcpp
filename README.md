@@ -25,9 +25,10 @@
 <p dir=rtl>
 این برنامه تحت مجوز GNU GPL v3 ارایه شده است. 
 همه فایلهای همراه آن نیز از این مجوز پیروی میکنند مگر
-[qdateconvertor](https://www.github.com/kharazi/qdateconvertor)
+<a href="https://www.github.com/kharazi/qdateconvertor">qdateconvertor</a>
 که با مجوز خودش همراه است.
 
+</p>
 
 
 ### کامپایل در ویندوز:
@@ -40,7 +41,7 @@
 ***
 <p dir=rtl>
 در صورت علاقه می‌توانید از نسخه
-[python](https://gitlab.com/sajed68/circle-clock-widget)
+  <a href="https://gitlab.com/sajed68/circle-clock-widget">پایتون</a>
 برنامه استفاده کنید.
 
 </p>
