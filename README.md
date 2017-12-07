@@ -37,3 +37,9 @@
 می‌توانید از qtcreator نیز استفاده نمایید.
 
 
+***
+
+در صورت علاقه می‌توانید از نسخه
+[python](www.gitlab.com/sajed68/circle-click-widget)
+برنامه استفاده کنید.
+
